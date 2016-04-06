@@ -1,0 +1,24 @@
+{
+  "name": "propostas",
+  "version": "1.0.0",
+  "description": "gerador de pdf para uso pessoal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fczuardi/propostas.git"
+  },
+  "keywords": [
+    "freela",
+    "markdown",
+    "pdf"
+  ],
+  "author": "Fabricio C Zuardi",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/fczuardi/propostas/issues"
+  },
+  "homepage": "https://github.com/fczuardi/propostas#readme"
+}
