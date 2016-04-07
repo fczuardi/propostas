@@ -1,6 +1,7 @@
 .env
 *.md
 !template.md
+!README.md
 *.pdf
 
 # Dependency directory

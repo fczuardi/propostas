@@ -4,6 +4,7 @@
   "description": "gerador de pdf para uso pessoal",
   "main": "index.js",
   "scripts": {
+    "pretest": "source .env",
     "test": "./index.js",
     "pdf": "markdown-pdf p1.md && open p1.pdf"
   },
