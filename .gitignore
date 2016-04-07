@@ -1,3 +1,8 @@
+.env
+*.md
+!template.md
+*.pdf
+
 # Logs
 logs
 *.log
