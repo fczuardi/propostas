@@ -1,5 +1,5 @@
 <p style="text-align:center">
-    <img src="./mnmologo.png" />
+    <img src="___LOGO_PATH___" />
 </p>
 
 -----
@@ -46,5 +46,5 @@ Este orçamento é válido até dia ___EXPIRATION_DATE___.
 
 1. Código atual da versão aberta open-source: [___FREE_APP_SLUG___](___FREE_APP_REPO___)
 2. Código atual da versão "branded" privada: [___CLOSED_APP_SLUG___](___CLOSED_APP_REPO___)
-3. Texto da licença MIT: [___LICENSE_ANCHOR___](___LICENSE_URL___)
+3. Texto da licença ___LICENSE_NAME___: [___LICENSE_ANCHOR___](___LICENSE_URL___)
 4. Sistema de tickets atual: [bug tracker privado](___BUG_TRACKER_URL___)
