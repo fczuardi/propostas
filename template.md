@@ -2,39 +2,47 @@
     <img src="___LOGO_PATH___" />
 </p>
 
+### Proposta
+
 -----
 
-Proposta
-========
+<p class="lead">
+___PROJECT_NAME___
+</p>
 
-**___CITY___**\
+<div class="columns">
+    <div class="one-half column centered">
+
+___CITY___, ___DATE___\
 Cliente: **___CLIENT_NAME___**\
-Projeto: **___PROJECT_NAME___**\
 A/C: **___RECIPIENTS___**
+    </div>
+</div>
 
 <div style="page-break-before: always;" />
 
 Resumo
 ======
 
-- Contrato mensal de suporte e manutenção para aplicação ___CLOSED_APP_NAME___
-- Treinamento relativo às tecnologias utilizadas pela aplicação ___CLOSED_APP_NAME___
-e capacitação da equipe interna.
-- Até ___HOURS_MONTH___ por mês, durante ___MONTHS___ (de ___START___ até ___END___)
-- Possibilidade da negociação de eventuais aumentos na quantidade de horas para
-meses específicos após consulta da disponibilidade.
-- Aberturas de chamados feitas via email ou sistema de tickets do repositório
-privado no github
+- Suporte e manutenção para aplicação ___CLOSED_APP_NAME___
+- Treinamento relativo às tecnologias utilizadas e capacitação da equipe interna
+- Até <mark>___HOURS_MONTH___</mark> por mês, durante <mark>___MONTHS___</mark> (de ___START___ até ___END___)
+- Possibilidade de aumento na quantidade de horas via compra de horas avulsas
+- Aberturas de chamados via sistema de tickets do Github ou email
 - Código da aplicação licenciado em licença open source (___LICENSE_NAME___),
 a mesma atualmente utilizada pela aplicação fonte que gera a versão "branded"
-(ver contrato do desenvolvimento da aplicação).
+<small>(ver contrato do desenvolvimento da aplicação)</small>
+
+---
 
 ### Preços e prazos
 
-- Valor total: ___TOTAL_VALUE___
-    - Parcelados em até ___PAYMENT_SPLIT___ parcelas iguais de ___PORTION_VALUE___) cada
-- Valor da hora adicional avulsa: ___HOURLY_RATE___
+- Valor total: <mark>___TOTAL_VALUE___</mark>
+    - Parcelados em até ___PAYMENT_SPLIT___ parcelas iguais de ___PORTION_VALUE___ cada
+- Valor da hora adicional avulsa: <mark>___HOURLY_RATE___</mark>
 - Duração: ___MONTHS___
+
+---
 
 ### Validade
 

@@ -1,8 +1,10 @@
 .env
 *.md
+*.pdf
+*.css
 !template.md
 !README.md
-*.pdf
+!custom.css
 
 # Dependency directory
 node_modules
