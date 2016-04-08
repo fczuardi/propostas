@@ -46,7 +46,7 @@ a mesma atualmente utilizada pela aplicação fonte que gera a versão "branded"
 
 ### Validade
 
-Este orçamento é válido até dia ___EXPIRATION_DATE___.
+Este orçamento é válido até o dia ___EXPIRATION_DATE___.
 
 <div style="page-break-before: always;" />
 
