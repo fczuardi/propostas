@@ -22,7 +22,7 @@ npm run pdf
 Este gerador de PDF utiliza como css base o [Primer](http://primercss.io/) e
 por cima dele aplica os conteúdos do arquivo ```custom.css```.
 
-Portanto, basta editar o arquivo ```custom.css``` para incluir qualquer novas
+Portanto, basta editar o arquivo ```custom.css``` para incluir quaisquer novas
 regras de estilo por cima do Primer.
 
 ## Opções do remarkable
