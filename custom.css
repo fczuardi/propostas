@@ -1,7 +1,22 @@
-li {
+ul, ol, h3, h4 {
+    margin-bottom: 1em;
+}
+h2 {
+    margin-bottom: 2em;
+}
+ li {
     list-style-type: disc;
     list-style-position: inside;
 }
+ul li ul li {
+    list-style-type: disc;
+    margin: 1em;
+}
 ol li{
     list-style-type: decimal;
+}
+table{
+    width: 100%;
+    margin-top: 1em;
+    margin-bottom: 1em;
 }
