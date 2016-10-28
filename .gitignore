@@ -3,6 +3,8 @@
 *.pdf
 *.css
 !template.md
+!support-template.md
+!chatbot-template.md
 !README.md
 !custom.css
 
