@@ -111,7 +111,7 @@ Detalhamento das funcionalidades
 
 ### 1. ___FEATURE_1_TITLE___
 
-A primeira interação de uma aspirante com o robô é adicioná-lo à sua lista de contatos, como resposta o robô deve se apresentar e em seguida apresentar os termos de uso junto com um diálogo para confirmação de aceite.
+A primeira interação de uma ___USER_TYPE_1_SINGULAR___ com o robô é adicioná-lo à sua lista de contatos, como resposta o robô deve se apresentar e em seguida apresentar os termos de uso junto com um diálogo para confirmação de aceite.
 
 Para um exemplo de como uma confirmação dessas é apresentada na forma de teclado customizado no Telegram com botões de "Aceito"/"Não aceito", veja o exemplo abaixo de um outro bot:
 
