@@ -1,5 +1,3 @@
-#!/bin/sh
-':' //; exec "$(command -v nodejs || command -v node)" --harmony_sloppy_let "$0" "$@"
 require('shelljs/global');
 
 const contents = cat('template.md');

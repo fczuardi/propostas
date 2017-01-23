@@ -5,7 +5,7 @@
   "main": "index.js",
   "remarkable": "{\"html\": true,\"breaks\": true,\"typographer\": true}",
   "scripts": {
-    "test": "./index.js",
+    "test": "node ./index.js",
     "css": "cat node_modules/primer-css/css/primer.css custom.css > main.css",
     "prepdf": "npm run css && npm test",
     "pdf": "markdown-pdf -f A4 -s main.css -m \"$npm_package_remarkable\" p1.md && open p1.pdf"

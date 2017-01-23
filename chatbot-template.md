@@ -29,8 +29,7 @@ Resumo
 - Integração do bot com ___API_INTEGRATION_1___ e ___API_INTEGRATION_2___.
 - Respostas e menus do bot configuráveis via ___API_INTEGRATION_1___, ___API_INTEGRATION_2___ ou arquivo local de configuração.
 - Código fonte licenciado em licença open source (___LICENSE_NAME___).
-- Projeto dividido em 7 módulos de funcionalidade que podem ser adiquiridos
-  individualmente em qualquer combinação.
+- Projeto dividido em 7 módulos de funcionalidade.
 
 ---
 
@@ -111,7 +110,7 @@ Detalhamento das funcionalidades
 
 ### 1. ___FEATURE_1_TITLE___
 
-A primeira interação de uma ___USER_TYPE_1_SINGULAR___ com o robô é adicioná-lo à sua lista de contatos, como resposta o robô deve se apresentar e em seguida apresentar os termos de uso junto com um diálogo para confirmação de aceite.
+A primeira interação de uma aspirante com o robô é adicioná-lo à sua lista de contatos, como resposta o robô deve se apresentar e em seguida apresentar os termos de uso junto com um diálogo para confirmação de aceite.
 
 Para um exemplo de como uma confirmação dessas é apresentada na forma de teclado customizado no Telegram com botões de "Aceito"/"Não aceito", veja o exemplo abaixo de um outro bot:
 
@@ -181,3 +180,21 @@ Um grupo de Telegram poderá ser configurado para ser o grupo de ___USER_TYPE_4_
 ### 8. ___FEATURE_8_TITLE___
 
 Todas as interações e metadados das mensagens trocadas com o bot ficam armazenadas em um arquivo de log bruto, para futuramente poderem ser parseadas e utilizadas para a extração de dados estatísticos.
+
+<div style="page-break-before: always;" />
+
+Pagamento
+=========
+
+O pagamento será feito em uma única parcela no valor total de ___TOTAL_VALUE___ em até ___PAYDAY_INTERVAL___ após a entrega dos ___FIRST_DELIVERY___. Aproximadamente ___PAYDAY___ se considerarmos o cumprimento dos prazos acima e início em ___JOB_START___.
+
+---
+
+___CITY___, ___DATE___
+
+___MNMO_NAME___
+CNPJ: ___MNMO_CNPJ___
+___MNMO_PERSON___ (mnmo)
+RG: ___MNMO_PERSON_ID___
+Assinatura:
+
