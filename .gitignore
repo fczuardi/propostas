@@ -1,4 +1,4 @@
-.env
+.env*
 *.md
 *.pdf
 *.css
