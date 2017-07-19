@@ -1,8 +1,11 @@
 require('shelljs/global');
 
 const contents = cat('template.md');
+console.log({contents})
 const pattern = /___(.*?)___/g;
 const placeholders = contents.match(pattern);
+
+console.log(placeholders);
 
 cp('template.md', 'p1.md');
 placeholders.forEach( (placeholder) => {

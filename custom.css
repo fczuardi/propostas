@@ -1,16 +1,16 @@
-ul, ol, h3, h4 {
+h3, h4, h5 {
     margin-bottom: 1em;
 }
 h2 {
     margin-bottom: 2em;
 }
- li {
+li {
     list-style-type: disc;
     list-style-position: inside;
 }
 ul li ul li {
-    list-style-type: disc;
-    margin: 1em;
+    list-style-type: circle;
+    margin-left: 2em;
 }
 ol li{
     list-style-type: decimal;
