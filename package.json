@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "gerador de pdf para uso pessoal",
   "main": "index.js",
-  "remarkable": "{\"html\": true,\"breaks\": true,\"typographer\": true}",
+  "remarkable": "{\"html\": true,\"breaks\": true,\"typographer\": true, \"linkify\": true}",
   "scripts": {
     "test": "node ./index.js",
-    "css": "cat node_modules/primer-css/css/primer.css custom.css > main.css",
+    "css": "cat node_modules/primer-css/build/build.css custom.css > main.css",
     "prepdf": "npm run css && npm test",
     "pdf": "markdown-pdf -f A4 -s main.css -m \"$npm_package_remarkable\" p1.md && open p1.pdf"
   },
@@ -26,8 +26,8 @@
   },
   "homepage": "https://github.com/fczuardi/propostas#readme",
   "devDependencies": {
-    "markdown-pdf": "^7.0.0",
-    "primer-css": "^3.0.1",
-    "shelljs": "^0.6.0"
+    "markdown-pdf": "^8.0.0",
+    "primer-css": "^9.0.0",
+    "shelljs": "^0.7.8"
   }
 }
